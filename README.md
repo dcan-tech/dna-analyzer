@@ -10,7 +10,7 @@ This version is being revisited and refactored to improve code structure, readab
 
 ## Features
 
-- Reads DNA sequence input from a user-specified file
+- Reads DNA sequence input from a user-specified text file
 - Processes nucleotide strings, codons, and mass percentages
 - Checks protein-coding validity based on multiple biological rules
 - Outputs results to a user-specified file
